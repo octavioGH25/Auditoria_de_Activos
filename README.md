@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue) ![Pandas](https://img.shields.io/badge/Data_Analysis-Financial-green) ![Status](https://img.shields.io/badge/Status-Finalizado-success)
 
 ## 🔗 Acceso al Análisis de Activos
-| :---: |
+
 | [![Jupyter](https://img.shields.io/badge/Jupyter-Ver_Código_y_Análisis-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](auditoria_de_activos.ipynb) |
 
 ---
@@ -54,4 +54,5 @@ El siguiente tablero muestra la distribución financiera del inventario, contras
 ---
 **Autor:** Octavio Landa Verde
 *Analista de Datos | Especialidad en Finanzas y Control Interno*
+
 
